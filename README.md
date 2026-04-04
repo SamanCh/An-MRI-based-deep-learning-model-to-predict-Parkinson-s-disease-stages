@@ -9,4 +9,3 @@ Parkinson’s disease (PD) is amongst the relatively prevalent neurodegenerative
 ![image](https://github.com/user-attachments/assets/7acf2971-1ccb-46bb-a13c-720eedaf9742)
 
 ## Link: https://www.researchgate.net/publication/349542530_An_MRI-based_Deep_Learning_Model_to_Predict_Parkinson's_Disease_Stages
-
